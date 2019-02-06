@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: crazyhotels
+  profiles:
+    active: dev
+server:
+  port: 8081
+  servlet:
+    contextPath: /crazy
